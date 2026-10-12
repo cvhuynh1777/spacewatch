@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit>=1.40
+databricks-sql-connector
+databricks-sdk
+pyarrow
+numpy
+anthropic
+torch
+sentence-transformers

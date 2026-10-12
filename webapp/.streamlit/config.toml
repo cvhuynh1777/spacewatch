@@ -1,0 +1,6 @@
+[theme]
+base = "dark"
+primaryColor = "#F2913D"              # orange accent (buttons)
+backgroundColor = "#000000"           # black sky (stars + grain are added in app.py)
+secondaryBackgroundColor = "#161D45"  # navy panels, inputs, tables
+textColor = "#F4EAD5"                 # cream text
